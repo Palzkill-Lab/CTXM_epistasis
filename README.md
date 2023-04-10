@@ -1,2 +1,3 @@
 # CTXM_epistasis
-Data processing for Judge et al. CTX-M-14 pairwise epistasis dataset.
+# Datasets and custom script for processing data published in Judge et al. 
+# CTX-M-14 pairwise epistasis dataset.
