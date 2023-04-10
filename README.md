@@ -16,12 +16,3 @@ re
 csv  
 math  
 pandas  
-
-# Required Python packages for data visualization
-pandas  
-csv  
-networkx  
-matplotlib  
-imageio  
-numpy  
-seaborn  
