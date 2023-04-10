@@ -23,3 +23,5 @@ csv
 networkx  
 matplotlib  
 imageio  
+numpy  
+seaborn  
