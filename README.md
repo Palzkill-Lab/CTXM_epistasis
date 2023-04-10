@@ -5,9 +5,9 @@ Datasets and custom script for processing data published in Judge et al.
 To run these scripts, you will need Python 3.
 
 # Required Python packages
-Bio \n
-Seq.IO \n
-re \n
-csv \n
-math \n
-pandas \n
+Biopython  
+Seq.IO  
+re  
+csv  
+math  
+pandas  
