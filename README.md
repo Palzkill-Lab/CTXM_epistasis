@@ -9,10 +9,17 @@ The "fitness_data" folder documents includes count information, calculated fitne
 # Required software
 Scripts are executable in Python 3. Files uploaded here were created and executed in Jupyter notebook using a Python 3 kernel.
 
-# Required Python packages
+# Required Python packages for data processing
 Biopython  
 Seq.IO  
 re  
 csv  
 math  
 pandas  
+
+# Required Python packages for data visualization
+pandas  
+csv  
+networkx  
+matplotlib  
+imageio  
